@@ -1,0 +1,25 @@
+{
+  "name": "another-queue",
+  "version": "1.0.0",
+  "description": "queue implementation for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyradin/another-queue.git"
+  },
+  "keywords": [
+    "queue"
+  ],
+  "author": "cyradin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyradin/another-queue/issues"
+  },
+  "homepage": "https://github.com/cyradin/another-queue#readme",
+  "dependencies": {
+    "uniq-id": "^1.0.0"
+  }
+}
